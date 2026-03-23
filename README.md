@@ -7,7 +7,7 @@ Bangalore, India · Open to remote and international opportunities
 
 ## About Me
 
-4.7 years of experience in Android platform testing and QA delivery at LG Soft India.  
+4.5+ years of experience in Android platform testing and QA delivery at LG Soft India.  
 Currently building toward QA Automation and SDET roles with hands-on work in Selenium, Python, PyTest, and REST API automation.
 
 ---
